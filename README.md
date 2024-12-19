@@ -1,6 +1,6 @@
 # Uniform Game Settings
 This project has been created with the sole goal of standardizing video game settings; 
-enabling shared accesibility for free, for everyone, forever.
+enabling shared accessibility for free, for everyone, forever.
 
 If a system exists that incorporates every possible setting, 
 then developers could optionally parse preference files and settings could persist across all games.
